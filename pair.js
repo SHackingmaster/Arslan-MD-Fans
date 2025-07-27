@@ -77,14 +77,14 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "ARSL=" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*𝙳𝚘𝚗𝚝 𝚜𝚑𝚊𝚛𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚠𝚒𝚝𝚑 𝚊𝚗𝚢𝚘𝚗𝚎!! 𝚄𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 Arslan MD 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚄𝚜𝚎𝚛 𝚋𝚘𝚝.*\n\n ◦ *Github:* https://github.com/Arslan-MD/Arslan_MD`; 
+                        let desc = `*𝙳𝚘𝚗𝚝 𝚜𝚑𝚊𝚛𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚠𝚒𝚝𝚑 𝚊𝚗𝚢𝚘𝚗𝚎!! 𝚄𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 𝐒𝐀𝐋𝐄𝐄𝐌-𝐌𝐃 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚄𝚜𝚎𝚛 𝚋𝚘𝚝.*\n\n ◦ *Github:* https://github.com/SHackingmaster/Saleem-MD`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "Arslan-MD",
+title: "𝐒𝐀𝐋𝐄𝐄𝐌-𝐌𝐃",
 thumbnailUrl: "https://files.catbox.moe/35oxel.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306",
+sourceUrl: "https://whatsapp.com/channel/0029Vb5tmth5q08UipOX3604",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -93,14 +93,14 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*𝙳𝚘𝚗𝚝 𝚜𝚑𝚊𝚛𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚠𝚒𝚝𝚑 𝚊𝚗𝚢𝚘𝚗𝚎!! 𝚄𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 Arslan MD 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚄𝚜𝚎𝚛 𝚋𝚘𝚝.*\n\n ◦ *Github:* https://github.com/Arslan-MD/Arslan_MD`;
+                            let desc = `*𝙳𝚘𝚗𝚝 𝚜𝚑𝚊𝚛𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚠𝚒𝚝𝚑 𝚊𝚗𝚢𝚘𝚗𝚎!! 𝚄𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 𝐒𝐀𝐋𝐄𝐄𝐌-𝐌𝐃 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚄𝚜𝚎𝚛 𝚋𝚘𝚝.*\n\n ◦ *Github:* https://github.com/SHackingmaster/Saleem-MD`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "Arslan-MD",
+title: "𝐒𝐀𝐋𝐄𝐄𝐌-𝐌𝐃",
 thumbnailUrl: "https://files.catbox.moe/35oxel.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306",
+sourceUrl: "https://whatsapp.com/channel/0029Vb5tmth5q08UipOX3604",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
